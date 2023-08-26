@@ -1,1 +1,1 @@
-# TechAnalysis
+# TechnAnalysis
